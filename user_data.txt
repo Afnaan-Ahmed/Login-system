@@ -1,3 +1,0 @@
-admin,admin
-afnaan,123456
-Afnaan,123456
